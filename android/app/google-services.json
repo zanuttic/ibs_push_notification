@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "858751289647",
+    "project_id": "ibspushnotification",
+    "storage_bucket": "ibspushnotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858751289647:android:3aa83d127b78a5e08a39da",
+        "android_client_info": {
+          "package_name": "com.ibs.push_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858751289647-bi1ri8r2gk8a1d3kh629v9j329hpt6j3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPwPeOge-3mgPklsEBhERdIFj1hx6CEO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858751289647-bi1ri8r2gk8a1d3kh629v9j329hpt6j3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
